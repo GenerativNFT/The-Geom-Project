@@ -1,0 +1,2 @@
+# The-Geom-Project
+The Geom Project is a generative art project that harnesses the mathematical nature of generative art design to create unique and intricate patterns called Geoms.  Each Geom is one uniquely generated art piece and exists as an NFT.  There are 24 different types of Geoms with 40 different colour schemes. Geoms have a limited supply of 10,000 out of infinite possibilities and every Geom is uniquely generated with the rarity determined by the complexity of its colour scheme. 
